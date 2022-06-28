@@ -26,3 +26,9 @@ Wireframes found in folder
 
 Unsolved Problems
 Project mouseover javascript
+
+
+Future Ideas
+Change project mouseover to transition
+Add background images to give site more character
+add picture in bio
